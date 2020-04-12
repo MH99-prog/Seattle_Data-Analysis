@@ -16,3 +16,11 @@ The code run with no issues using Python versions 3.
 # Project Motivation
 The dataset contains information from 2016 to 2017.
 In this project, I did some analysis on guests and hosts data used in travelling from different regions:
+1. We break the comment column to gain analysis on comments given by guests and find percentage on mostly typed comment
+2. Then we analyze reviews rated by guests out of 10 through visualization graph and discussed payment policy
+3.Last and final technique I analyzed step by step was to search for the most price paid in the data was **$150** from 13 milion data
+
+# File Description
+There is one notebook **Seattle_Data-Analysis**, to showcase work related to the above questions. Notebook mentioned above helps to find your understandings by running codes in it.
+
+# Acknowle
