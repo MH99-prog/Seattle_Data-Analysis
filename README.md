@@ -1,5 +1,5 @@
 # Seattle_Data-Analysis
-The dataset contians history of **Seattle Airbnb** services. Main objective of project is to show relation and satisfaction between company and it's customers                                     
+The dataset contians history of **Seattle Airbnb** services. Main objective of project is to show relation and satisfaction between company and it's customers.                                     
 
 ## Meduim Post
  https://medium.com/@muhammadhaleem/seattle-airbnb-data-analysis-136cd59c3274
@@ -24,4 +24,4 @@ In this project, I did some analysis on guests and hosts data used in travelling
 There is one notebook **Seattle_Data-Analysis**, to showcase work related to the above questions. Notebook mentioned above helps to find your understandings by running codes in it.
 
 ## Acknowledgements
-The Seattle AirBNB dataset can be found in https://www.kaggle.com/airbnb/seattle Cheers and feel free to use the code in given notebook as you wish
+The Seattle AirBNB dataset can be found in https://www.kaggle.com/airbnb/seattle Cheers and feel free to use the code in given notebook as you wish.
